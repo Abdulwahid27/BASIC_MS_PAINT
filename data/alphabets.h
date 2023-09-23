@@ -1,0 +1,31 @@
+void print_all_alphabets(char symbol, char color, int x, int y, int size);
+void print_alphabets_range(char symbol, char color, int x, int y, int size, char start, char end);
+void alpha_range(int x, int y, int size, char symbol, char color, int i);
+
+// for alphabets :-
+void alphabet_a(int x, int y, int size, char symbol); // Declerationn For "A"
+void alphabet_b(int x, int y, int size, char symbol); // Declerationn For "B"
+void alphabet_c(int x, int y, int size, char symbol); // Declerationn For "C"
+void alphabet_d(int x, int y, int size, char symbol); // Declerationn For "D"
+void alphabet_e(int x, int y, int size, char symbol); // Declerationn For "E"
+void alphabet_f(int x, int y, int size, char symbol); // Declerationn For "F"
+void alphabet_g(int x, int y, int size, char symbol); // Declerationn For "G"
+void alphabet_h(int x, int y, int size, char symbol); // Declerationn For "H"
+void alphabet_i(int x, int y, int size, char symbol); // Declerationn For "I"
+void alphabet_j(int x, int y, int size, char symbol); // Declerationn For "J"
+void alphabet_k(int x, int y, int size, char symbol); // Declerationn For "K"
+void alphabet_l(int x, int y, int size, char symbol); // Declerationn For "L"
+void alphabet_m(int x, int y, int size, char symbol); // Declerationn For "M"
+void alphabet_n(int x, int y, int size, char symbol); // Declerationn For "N"
+void alphabet_o(int x, int y, int size, char symbol); // Declerationn For "O"
+void alphabet_p(int x, int y, int size, char symbol); // Declerationn For "P"
+void alphabet_q(int x, int y, int size, char symbol); // Declerationn For "Q"
+void alphabet_r(int x, int y, int size, char symbol); // Declerationn For "R"
+void alphabet_s(int x, int y, int size, char symbol); // Declerationn For "S"
+void alphabet_t(int x, int y, int size, char symbol); // Declerationn For "T"
+void alphabet_u(int x, int y, int size, char symbol); // Declerationn For "U"
+void alphabet_v(int x, int y, int size, char symbol); // Declerationn For "V"
+void alphabet_w(int x, int y, int size, char symbol); // Declerationn For "W"
+void alphabet_x(int x, int y, int size, char symbol); // Declerationn For "X"
+void alphabet_y(int x, int y, int size, char symbol); // Declerationn For "Y"
+void alphabet_z(int x, int y, int size, char symbol); // Declerationn For "Z"

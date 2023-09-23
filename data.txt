@@ -1,0 +1,17 @@
+Name: parallelogram
+Choice: 1
+X Coordinate: 50
+Y Coordinate: 60
+Size: -1
+Length: -1
+Symbol: a
+Fill Color: g
+Border Color: y
+Start: `
+End: `
+Radius: -1
+Rows: 10
+Columns: 10
+Height: -1
+Base: -1
+
